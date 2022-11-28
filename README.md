@@ -31,12 +31,16 @@ XOR
 # Задание 1.
 
 Ход работы:
+
 OR: Перцептрон отлично справляется и работает корректно!
 ![image](https://user-images.githubusercontent.com/114394198/204335048-5337c840-6250-4437-9c8b-eef044250c7d.png)
+
 AND: Перцептрон работает стабильно и каждый раз выдает верные значения!
 ![image](https://user-images.githubusercontent.com/114394198/204341607-53464821-f84f-4849-bcb9-8797f6fe4712.png)
+
 NAND: Точно также стабильная и корректная работа без ошибок!
 ![image](https://user-images.githubusercontent.com/114394198/204343721-9d3e9531-4ea2-4549-817b-bc5dfcc80073.png)
+
 XOR: Работает не корректно, так и не получилось получить верные значения!
 ![image](https://user-images.githubusercontent.com/114394198/204344585-bfc4e25a-6bda-4957-8b52-23fd89f5edb1.png)
 
